@@ -36,7 +36,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\Java\Pattern\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1eEeDiRDJL6Ob6JrfBxbm4CXT5a" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -202,7 +210,19 @@
       <option name="presentableId" value="Default" />
       <updated>1593891061541</updated>
     </task>
+    <task id="LOCAL-00001" summary="Init commit">
+      <created>1596390411966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596390411966</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1594835371657">
@@ -231,10 +251,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="779" y="405" key="#xdebugger.evaluate/0.0.1920.1040/1920.-117.1536.920@0.0.1920.1040" timestamp="1593891781239" />
-    <state x="614" y="116" key="CommitChangelistDialog2" timestamp="1596390220524">
+    <state x="614" y="116" key="CommitChangelistDialog2" timestamp="1596390408589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="614" y="116" key="CommitChangelistDialog2/0.0.1920.1040/1920.-131.1536.920@0.0.1920.1040" timestamp="1596390220524" />
+    <state x="614" y="116" key="CommitChangelistDialog2/0.0.1920.1040/1920.-131.1536.920@0.0.1920.1040" timestamp="1596390408589" />
     <state x="696" y="224" key="FileChooserDialogImpl" timestamp="1595179740255">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
