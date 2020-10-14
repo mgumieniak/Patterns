@@ -1,5 +1,8 @@
 package chainOfResponsibility;
 
+import behavioral.chainOfResponsibility.HeaderTextProcessing;
+import behavioral.chainOfResponsibility.ProcessingObject;
+import behavioral.chainOfResponsibility.SpellCheckerProcessing;
 import org.junit.jupiter.api.Test;
 
 class ProcessingObjectTest {

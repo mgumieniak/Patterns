@@ -1,5 +1,8 @@
 package command;
 
+import behavioral.command.Editor;
+import behavioral.command.EditorImpl;
+import behavioral.command.Macro;
 import org.junit.jupiter.api.Test;
 
 class MacroTest {

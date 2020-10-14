@@ -1,9 +1,8 @@
 package strategy;
 
-import com.sun.tools.javac.util.List;
+import behavioral.strategy.Compressor;
+import behavioral.strategy.SevenZipCompressor;
 import org.junit.jupiter.api.Test;
-
-import static org.junit.jupiter.api.Assertions.*;
 
 class CompressorTest {
 

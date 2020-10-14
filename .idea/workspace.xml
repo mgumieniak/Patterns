@@ -1,7 +1,93 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e839233-08d0-49f8-8108-f88865224cfc" name="Default Changelist" comment="" />
+    <list default="true" id="3e839233-08d0-49f8-8108-f88865224cfc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/observer/pubSub/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/observer/pubSub/TempInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/observer/pubSub/TempSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/observer/pubSub/TempSubscription.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/observer/withLambda/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/observer/withLambda/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/templateMethodPattern/simpleLambda/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/templateMethodPattern/simpleLambda/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/visitor/CompositeEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/visitor/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/visitor/EmployeeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/visitor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/behavioral/visitor/VisitorImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/behavioral/visitor/VisitorImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/observer/withLambda/ObserverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/templateMethodPattern/simpleLambda/BankAccountTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chainOfResponsibility/HeaderTextProcessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/chainOfResponsibility/HeaderTextProcessing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chainOfResponsibility/ProcessingObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/chainOfResponsibility/ProcessingObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chainOfResponsibility/SpellCheckerProcessing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/chainOfResponsibility/SpellCheckerProcessing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/command/Action.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/command/Action.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/command/Close.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/command/Close.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/command/Editor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/command/Editor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/command/EditorImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/command/EditorImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/command/Macro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/command/Macro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/command/Open.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/command/Open.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/command/Save.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/command/Save.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/creational/builder/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creational/builder/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/creational/singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/creational/singleton/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/observer/Observable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/observer/withImpl/Observable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/observer/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/observer/withImpl/Observer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/observer/ObserverImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/observer/withImpl/ObserverImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/Compressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/strategy/Compressor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/CompressorStrategy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/strategy/CompressorStrategy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/SevenZipCompressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/strategy/SevenZipCompressor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/strategy/ZipCompressor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/strategy/ZipCompressor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structural/composite/CompositeEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structural/composite/CompositeEmployee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structural/composite/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structural/composite/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structural/composite/EmployeeImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structural/composite/EmployeeImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structural/decorator/Pairing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structural/decorator/Pairing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structural/decorator/PairingDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structural/decorator/PairingDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structural/decorator/PairingImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structural/decorator/PairingImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structural/decorator/PairingWithNewResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structural/decorator/PairingWithNewResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structural/proxy/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structural/proxy/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structural/proxy/RealSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structural/proxy/RealSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/structural/proxy/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/structural/proxy/Subject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/templateMethodPattern/Company.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/templateMethodPattern/Company.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/templateMethodPattern/CompanyLoanApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/templateMethodPattern/CompanyLoanApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/templateMethodPattern/CompanyUK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/templateMethodPattern/CompanyUK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/templateMethodPattern/Criteria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/templateMethodPattern/Criteria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/templateMethodPattern/LoanApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/behavioral/templateMethodPattern/LoanApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/chainOfResponsibility/ProcessingObjectTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/chainOfResponsibility/ProcessingObjectTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/command/MacroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/command/MacroTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/creational/singleton/SingletonTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/creational/singleton/SingletonTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/observer/ObservableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/observer/ObservableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/strategy/CompressorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/strategy/CompressorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/structural/composite/CompositeEmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/structural/composite/CompositeEmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/structural/decorator/PairingTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/structural/decorator/PairingTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/structural/proxy/ProxyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/structural/proxy/ProxyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/templateMethodPattern/LoanApplicationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/templateMethodPattern/LoanApplicationTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,34 +122,33 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IgnoredFileRootStore">
-    <option name="generatedRoots">
-      <set>
-        <option value="E:\Java\Pattern\.idea" />
-      </set>
-    </option>
-  </component>
   <component name="ProjectId" id="1eEeDiRDJL6Ob6JrfBxbm4CXT5a" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/zaawansowana-refaktoryzacja" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/behavioral/visitor" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="chainOfResponsibility" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="templateMethodPattern.simpleLambda" />
       <recent name="structural.proxy" />
       <recent name="structural.composite" />
       <recent name="decorator" />
-      <recent name="templateMethodPattern" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="behavioral.visitor" />
+      <recent name="templateMethodPattern.simpleLambda" />
+      <recent name="observer.withLambda" />
+      <recent name="chainOfResponsibility" />
+      <recent name="structural.proxy" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -71,10 +156,8 @@
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Java\Pattern\src\main\java" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/behavioral/visitor" />
       <recent name="E:\Java\Pattern\src\main" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -82,13 +165,51 @@
       <recent name="singleton" />
       <recent name="" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="structural.proxy" />
-      <recent name="structural.composite" />
-      <recent name="decorator" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java\Pattern\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Gradle.ProxyTest">
+  <component name="RunManager" selected="Gradle.Tests in 'Pattern.test'">
+    <configuration name="BankAccountTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;templateMethodPattern.simpleLambda.BankAccountTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BankAccountTest.drawMoney" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;templateMethodPattern.simpleLambda.BankAccountTest.drawMoney&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="CompositeEmployeeTest.testComposite" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -100,7 +221,6 @@
         </option>
         <option name="taskNames">
           <list>
-            <option value=":cleanTest" />
             <option value=":test" />
           </list>
         </option>
@@ -109,12 +229,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="LoanApplicationTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ProcessingObjectTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;templateMethodPattern.LoanApplicationTest&quot;" />
+        <option name="scriptParameters" value="--tests &quot;chainOfResponsibility.ProcessingObjectTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -129,58 +249,17 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="PairingTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="Tests in 'Pattern.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;decorator.PairingTest&quot;" />
+        <option name="scriptParameters" value="--tests *" />
         <option name="taskDescriptions">
           <list />
         </option>
         <option name="taskNames">
           <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="PairingTest.decorator" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;decorator.PairingTest.decorator&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="ProxyTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;structural.proxy.ProxyTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
             <option value=":test" />
           </list>
         </option>
@@ -191,14 +270,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.ProxyTest" />
+        <item itemvalue="Gradle.Tests in 'Pattern.test'" />
         <item itemvalue="Gradle.CompositeEmployeeTest.testComposite" />
-        <item itemvalue="Gradle.PairingTest.decorator" />
-        <item itemvalue="Gradle.PairingTest" />
-        <item itemvalue="Gradle.LoanApplicationTest" />
+        <item itemvalue="Gradle.ProcessingObjectTest" />
+        <item itemvalue="Gradle.BankAccountTest.drawMoney" />
+        <item itemvalue="Gradle.BankAccountTest" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -217,94 +297,122 @@
       <option name="project" value="LOCAL" />
       <updated>1596390411966</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Init commit">
+      <created>1596390480411</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1596390480411</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Init commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1594835371657">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="766" y="357" width="374" height="575" key="#com.intellij.ide.util.MemberChooser" timestamp="1602710386529">
+      <screen x="0" y="120" width="1920" height="1080" />
     </state>
+    <state x="638" y="189" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1599987542880" />
     <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-117.1536.920@0.0.1920.1040" timestamp="1594835371657" />
     <state x="2532" y="86" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-117.1536.920@1920.-117.1536.920" timestamp="1594751827202" />
-    <state x="648" y="436" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1594829779116">
+    <state x="766" y="357" width="374" height="575" key="#com.intellij.ide.util.MemberChooser/0.120.1920.1080/1920.0.1920.1200@0.120.1920.1080" timestamp="1602710386529" />
+    <state x="808" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1599412296858">
       <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="808" y="409" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040/1920.-131.1536.920@0.0.1920.1040" timestamp="1599412296858" />
+    <state x="648" y="573" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1602709052850">
+      <screen x="0" y="120" width="1920" height="1080" />
     </state>
     <state x="648" y="436" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/1920.-117.1536.920@0.0.1920.1040" timestamp="1594829779116" />
     <state x="2438" y="269" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/1920.-117.1536.920@1920.-117.1536.920" timestamp="1594762611844" />
-    <state x="756" y="379" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593891142770">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="756" y="379" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040/1920.-117.1536.920@0.0.1920.1040" timestamp="1593891142770" />
-    <state x="707" y="81" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593894462116">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="707" y="81" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040/1920.-117.1536.920@0.0.1920.1040" timestamp="1593894462116" />
+    <state x="648" y="573" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.120.1920.1080/1920.0.1920.1200@0.120.1920.1080" timestamp="1602709052850" />
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594069721809">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.-117.1536.920@0.0.1920.1040" timestamp="1594069721809" />
-    <state x="779" y="405" key="#xdebugger.evaluate" timestamp="1593891781239">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="779" y="405" key="#xdebugger.evaluate/0.0.1920.1040/1920.-117.1536.920@0.0.1920.1040" timestamp="1593891781239" />
     <state x="614" y="116" key="CommitChangelistDialog2" timestamp="1596390408589">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="614" y="116" key="CommitChangelistDialog2/0.0.1920.1040/1920.-131.1536.920@0.0.1920.1040" timestamp="1596390408589" />
-    <state x="696" y="224" key="FileChooserDialogImpl" timestamp="1595179740255">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="696" y="352" width="424" height="478" key="FileChooserDialogImpl" timestamp="1602709693174">
+      <screen x="0" y="120" width="1920" height="1080" />
     </state>
     <state x="580" y="185" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1594716233672" />
     <state x="696" y="224" key="FileChooserDialogImpl/0.0.1920.1040/1920.-117.1920.1160@0.0.1920.1040" timestamp="1595179740255" />
-    <state width="1877" height="293" key="GridCell.Tab.0.bottom" timestamp="1594837467758">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="696" y="224" key="FileChooserDialogImpl/0.0.1920.1040/1920.-131.1536.920@0.0.1920.1040" timestamp="1599673896243" />
+    <state x="2477" y="67" key="FileChooserDialogImpl/0.0.1920.1040/1920.-131.1536.920@1920.-131.1536.920" timestamp="1596473294040" />
+    <state x="696" y="352" width="424" height="478" key="FileChooserDialogImpl/0.120.1920.1080/1920.0.1920.1200@0.120.1920.1080" timestamp="1602709693174" />
+    <state x="580" y="185" key="FileChooserDialogImpl/1600.-181.1920.1040/0.0.1600.860@0.0.1600.860" timestamp="1600973892818" />
+    <state width="1557" height="231" key="GridCell.Tab.0.bottom" timestamp="1600781059181">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1557" height="231" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1600781059181" />
     <state width="1877" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-117.1536.920@0.0.1920.1040" timestamp="1594837467758" />
     <state width="1493" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-117.1536.920@1920.-117.1536.920" timestamp="1594762932022" />
-    <state width="1877" height="293" key="GridCell.Tab.0.center" timestamp="1594837467758">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="293" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-131.1536.920@0.0.1920.1040" timestamp="1599595180693" />
+    <state width="1557" height="231" key="GridCell.Tab.0.center" timestamp="1600781059181">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1557" height="231" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1600781059181" />
     <state width="1877" height="293" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-117.1536.920@0.0.1920.1040" timestamp="1594837467758" />
     <state width="1493" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-117.1536.920@1920.-117.1536.920" timestamp="1594762932022" />
-    <state width="1877" height="293" key="GridCell.Tab.0.left" timestamp="1594837467758">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="293" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-131.1536.920@0.0.1920.1040" timestamp="1599595180693" />
+    <state width="1557" height="231" key="GridCell.Tab.0.left" timestamp="1600781059181">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1557" height="231" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1600781059181" />
     <state width="1877" height="293" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-117.1536.920@0.0.1920.1040" timestamp="1594837467758" />
     <state width="1493" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-117.1536.920@1920.-117.1536.920" timestamp="1594762932022" />
-    <state width="1877" height="293" key="GridCell.Tab.0.right" timestamp="1594837467758">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1877" height="293" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-131.1536.920@0.0.1920.1040" timestamp="1599595180693" />
+    <state width="1557" height="231" key="GridCell.Tab.0.right" timestamp="1600781059181">
+      <screen x="0" y="0" width="1600" height="860" />
     </state>
+    <state width="1557" height="231" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1600781059181" />
     <state width="1877" height="293" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-117.1536.920@0.0.1920.1040" timestamp="1594837467758" />
     <state width="1493" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-117.1536.920@1920.-117.1536.920" timestamp="1594762932022" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1593895849734">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-117.1536.920@0.0.1920.1040" timestamp="1593895849734" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1593895849734">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-117.1536.920@0.0.1920.1040" timestamp="1593895849734" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1593895849734">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-117.1536.920@0.0.1920.1040" timestamp="1593895849734" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1593895849734">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-117.1536.920@0.0.1920.1040" timestamp="1593895849734" />
+    <state width="1877" height="293" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-131.1536.920@0.0.1920.1040" timestamp="1599595180693" />
     <state x="757" y="231" key="RollbackChangesDialog" timestamp="1596390209232">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="757" y="231" key="RollbackChangesDialog/0.0.1920.1040/1920.-131.1536.920@0.0.1920.1040" timestamp="1596390209232" />
-    <state x="2505" y="80" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1596134365990">
-      <screen x="1920" y="-131" width="1536" height="920" />
+    <state x="731" y="367" width="442" height="368" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1602710576667">
+      <screen x="0" y="120" width="1920" height="1080" />
     </state>
+    <state x="609" y="197" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1600.860@0.0.1600.860" timestamp="1599987364487" />
     <state x="731" y="238" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/1920.-117.1536.920@0.0.1920.1040" timestamp="1594835497212" />
     <state x="2505" y="94" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/1920.-117.1536.920@1920.-117.1536.920" timestamp="1594752037083" />
     <state x="2505" y="80" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040/1920.-131.1536.920@1920.-131.1536.920" timestamp="1596134365990" />
+    <state x="731" y="367" width="442" height="368" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.120.1920.1080/1920.0.1920.1200@0.120.1920.1080" timestamp="1602710576667" />
+    <state x="530" y="185" key="extract.method.dialog" timestamp="1599988034472">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="530" y="185" key="extract.method.dialog/0.0.1600.860@0.0.1600.860" timestamp="1599988034472" />
+    <state x="285" y="84" key="new project wizard" timestamp="1600973900786">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040/1920.-131.1536.920@0.0.1920.1040" timestamp="1599673898405" />
+    <state x="285" y="84" key="new project wizard/1600.-181.1920.1040/0.0.1600.860@0.0.1600.860" timestamp="1600973900786" />
+    <state x="542" y="49" key="refactoring.ChangeSignatureDialog" timestamp="1599987431717">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="542" y="49" key="refactoring.ChangeSignatureDialog/0.0.1600.860@0.0.1600.860" timestamp="1599987431717" />
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup" timestamp="1600009754829">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="463" y="180" width="672" height="678" key="search.everywhere.popup/1600.-181.1920.1040/0.0.1600.860@0.0.1600.860" timestamp="1600009754829" />
   </component>
 </project>

@@ -1,5 +1,7 @@
 package observer;
 
+import behavioral.observer.withImpl.Observable;
+import behavioral.observer.withImpl.ObserverImpl;
 import org.junit.jupiter.api.Test;
 
 import static org.mockito.Mockito.*;
